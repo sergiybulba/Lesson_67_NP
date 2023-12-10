@@ -1,0 +1,6 @@
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\bin\Debug\Task_1_server.exe.config
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\bin\Debug\Task_1_server.exe
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\bin\Debug\Task_1_server.pdb
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\obj\Debug\Task_1_server.csproj.CoreCompileInputs.cache
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\obj\Debug\Task_1_server.exe
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Computer(client)_computer(server)\Task_1_server\obj\Debug\Task_1_server.pdb

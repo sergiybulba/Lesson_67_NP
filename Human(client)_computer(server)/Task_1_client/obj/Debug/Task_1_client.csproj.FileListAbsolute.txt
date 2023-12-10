@@ -1,0 +1,14 @@
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.exe.config
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.exe
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.pdb
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.csproj.AssemblyReference.cache
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.csproj.SuggestedBindingRedirects.cache
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.csproj.CoreCompileInputs.cache
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.exe
+C:\documents\d\prognoz33\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.pdb
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.exe.config
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.exe
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\bin\Debug\Task_1_client.pdb
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.csproj.CoreCompileInputs.cache
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.exe
+D:\AZOT\STEP\Lessons\Lesson_67_18.11.2023_SA\Human(client)_computer(server)\Task_1_client\obj\Debug\Task_1_client.pdb
